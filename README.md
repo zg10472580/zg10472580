@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
 [![博客搭建交流群](https://img.shields.io/badge/微信-vx32057-red.svg "微信")](mailto:vx32057)
-[![Mail Badge](https://img.shields.io/badge/-zhaopengfei779@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhaopengfei779@gmail.com)](mailto:zhaopengfei779@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-zhaopengfei779@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zg10472580@gmail.com)](mailto:zg10472580@gmail.com)
 ---
 <img align="right" alt="微信" width="20%" src="./Snipaste_2021-08-27_11-55-20.png" />
 
