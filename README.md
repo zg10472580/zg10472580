@@ -2,7 +2,7 @@
 [![博客搭建交流群](https://img.shields.io/badge/微信-Jackey06-red.svg "微信")](mailto:Jackey06)
 [![Mail Badge](https://img.shields.io/badge/-zhaopengfei779@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zhaopengfei779@gmail.com)](mailto:zhaopengfei779@gmail.com)
 ---
-<img align="right" alt="微信" width="20%" src="http://image.zpfdev.cn:7060/images/WeChat.jpg" />
+<img align="right" alt="微信" width="20%" src="./Snipaste_2021-08-27_11-55-20.png" />
 
 - 🌱 Android开发攻城狮
 - 💬 微信:[vx32057](vx32057) 欢迎一起讨论学习
