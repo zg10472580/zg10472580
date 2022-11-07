@@ -1,5 +1,5 @@
 ## Hello GitHub Fans 👋
-[![微信](https://img.shields.io/badge/微信-vx32057-red.svg "微信")](mailto:vx32057)
+[![微信](https://img.shields.io/badge/微信-vx32057-red.svg "微信")]
 [![Mail Badge](https://img.shields.io/badge/-zg10472580@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zg10472580@gmail.com)](mailto:zg10472580@gmail.com)
 ---
 <img align="right" alt="微信" width="20%" src="./d2aae7f2d51bfb7fc6ca37667b1c0b5.jpg" />
