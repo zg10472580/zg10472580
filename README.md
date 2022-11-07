@@ -3,6 +3,7 @@
 [![Mail Badge](https://img.shields.io/badge/-zg10472580@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zg10472580@gmail.com)](mailto:zg10472580@gmail.com)
 ---
 <img align="right" alt="微信" width="20%" src="./d2aae7f2d51bfb7fc6ca37667b1c0b5.jpg" />
+<img align="right" alt="微信" width="20%" src="./6fa99038ea351c37f74c82d4a4001a0.jpg" />
 
 - 🌱 Android开发爱好者
 - 💬 微信:[vx32057](vx32057) 欢迎一起讨论学习
