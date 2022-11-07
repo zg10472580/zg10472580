@@ -17,10 +17,11 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FF0000)
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android&logoColor=3DDC84)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Next.js&logoColor=3DDC84)
-![Hadoop](https://img.shields.io/badge/-%E5%A4%A7%E6%95%B0%E6%8D%AE-333333?style=flat&logo=Apache%20Hadoop&logoColor=66CCFF)
+![Hadoop](https://img.shields.io/badge/-%E5%A4%A7%E6%95%B0%E6%8D%AE-333333?style=flat&logo=Apache%20Hadoop&logoColor=FCC624)
 ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=Apache%20Spark&logoColor=E25A1C)
 - 💻 &#160;
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=Apache%20Kafka&logoColor=ffffff)
+![Hive](https://img.shields.io/badge/-Hive-333333?style=flat&logo=Apache%20Hive&logoColor=FDEE21)
 ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot&logoColor=6DB33F)
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua&logoColor=0295FF)
