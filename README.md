@@ -36,4 +36,4 @@
 ![AdobeAfterEffects](https://img.shields.io/badge/-AE-333333?style=flat&logo=AdobeAfterEffects&logoColor=9999FF)
 ![AdobePremierePro](https://img.shields.io/badge/-PR-333333?style=flat&logo=AdobePremierePro&logoColor=9999FF)
 
-> ***我喜欢交朋友。可以添加我的微信交流学习😊***
+> ***有兴趣的朋友。可以添加我的微信交流学习😊***
